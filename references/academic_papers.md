@@ -14,7 +14,7 @@ https://www.ibm.com/topics/quantum-cryptography#:~:text=Quantum%20cryptography%2
 https://www.nature.com/articles/s41586-020-2401-y
 * QKD - method of sharing private keys through quantum particle such as photon
 
-**Jupyter Notebooko: Quantum Key Distribution:**
+**Jupyter Notebook: Quantum Key Distribution:**
 
 https://github.com/Qiskit/textbook/blob/main/notebooks/ch-algorithms/quantum-key-distribution.ipynb
 * implementing qdk in qiskit
