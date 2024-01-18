@@ -1,5 +1,9 @@
 academic references:
 
+**Quantum cryptography: Public key distribution and coin tossing, Charles H. Bennett, Gilles Brassard**
+
+https://arxiv.org/abs/2003.06557
+
 **IBM: What is quantum cryptography?:**
 
 https://www.ibm.com/topics/quantum-cryptography#:~:text=Quantum%20cryptography%20(also%20known%20as,immutable%20laws%20of%20quantum%20mechanics
