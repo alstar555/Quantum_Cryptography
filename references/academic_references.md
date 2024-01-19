@@ -2,6 +2,8 @@ Academic References:
 
 [Quantum cryptography: Public key distribution and coin tossing, Charles H. Bennett, Gilles Brassard](https://arxiv.org/abs/2003.06557)
 
+[Quantum Cryptography Based on Bell's Theorem](https://cqi.inf.usi.ch/qic/91_Ekert.pdf)
+
 [IBM: What is quantum cryptography?](https://www.ibm.com/topics/quantum-cryptography#:~:text=Quantum%20cryptography%20%28also%20known%20as%2C%20immutable%20laws%20of%20quantum%20mechanics%29)
 
 * QDK is a theoretically unhackable encryption method
