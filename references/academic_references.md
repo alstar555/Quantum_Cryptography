@@ -25,3 +25,6 @@ Academic References:
 [The measure of security in quantum cryptography](https://ieeexplore.ieee.org/abstract/document/6503238)
 
 [Unclonable Non-Interactive Zero-Knowledge](https://eprint.iacr.org/2023/1532.pdf)
+
+[Pure Quantum Gradient Descent Algorithm and Full Quantum Variational
+Eigensolver](https://arxiv.org/pdf/2305.04198.pdf)
